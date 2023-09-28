@@ -15,7 +15,7 @@
     --bg-color: #1f242d;
     --second-bg-color: #323946;
     --text-color: #fff;
-    --main-color: #0ef;
+    --main-color: rgb(208, 0, 255);
 }
 
 html {
@@ -347,7 +347,7 @@ span {
 /* BREAKPOINS */
 @media (max-width: 1200px) {
     html {
-        font-size: 55%;
+        font-size: 30%;
     }
 }
 
@@ -442,7 +442,7 @@ span {
 
     @media (max-width: 450px) {
         html {
-            font-size: 50%;
+            font-size: 18%;
         }
 
         .contact form .input-box input {
