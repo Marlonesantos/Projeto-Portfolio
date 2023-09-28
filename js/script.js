@@ -52,9 +52,11 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*================================ scroll reveal ==================*/
 const typed = new Typed('.multiple-text', {
-    strings: [,'Desenvolvedor Frontend!', 'Técnico de Informática!', 'Programador Freelancer'],
+    strings: [,'Desenvolvedor Frontend!', 'Técnico de Informática!', 'Dev Freelancer!', 'Analista de Sistemas!', ],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
     loop: true
+  
+    
 });
