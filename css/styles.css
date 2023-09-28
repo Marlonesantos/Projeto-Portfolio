@@ -79,6 +79,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+   
 }
 
 .home-img img {
@@ -449,7 +450,7 @@ span {
     }  
 
     html {
-            font-size: 60%;
+            font-size: 50%;
     }
         
 }
@@ -457,7 +458,7 @@ span {
 
 @media (max-width: 450px) {
     html {
-            font-size: 55%;
+            font-size: 50%;
         }
 
     .contact form .input-box input {
